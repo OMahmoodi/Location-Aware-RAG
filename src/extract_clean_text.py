@@ -38,7 +38,7 @@ Cleaned Text:"""
     return result[0]['generated_text'].replace(prompt, "").strip()
 
 
-def load_pdf_data_and_embed(folder_path):
+def load_pdf_data_and_clean(folder_path):
     texts, metadatas = [], []
     for filename in os.listdir(folder_path):
         if filename.lower().endswith(".pdf"):
