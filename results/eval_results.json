@@ -1,0 +1,74 @@
+[
+  {
+    "query": "What locations does this report focus on?",
+    "generated_answer": "The Attitti Lake Area, West Half, and the Settee Lake Area.",
+    "expected_answer": "Attitti Lake and Settee Lake areas",
+    "cosine_similarity": 0.8582311272621155
+  },
+  {
+    "query": "What is the general bedrock geology of the Attitti Lake area?",
+    "generated_answer": "The Attitti Lake area is underlain by an intricately folded, intercalated assemblage of metamorphic rocks intruded by granitic sill-like bodies, and forms part of the Precambrian Kisseynew complex.",
+    "expected_answer": "The area is underlain by an intricately folded, intercalated assemblage of metamorphic rocks intruded by granitic sill-like bodies, and forms part of the Precambrian Kisseynew complex.",
+    "cosine_similarity": 0.9342448711395264
+  },
+  {
+    "query": "To which metamorphic facies do the rocks of the Attitti Lake area belong?",
+    "generated_answer": "The rocks of the Attitti Lake area belong to the amphibolite facies of regional metamorphism.",
+    "expected_answer": "The lithology of these metamorphic rocks indicates that they belong to amphibolite facies of the regional metamorphism.",
+    "cosine_similarity": 0.8504719138145447
+  },
+  {
+    "query": "What is the dominant type of intrusive rock in the Attitti Lake area?",
+    "generated_answer": "The dominant type of intrusive rock in the Attitti Lake area is sill-like bodies of granodiorite and quartz diorite.",
+    "expected_answer": "The intrusive rocks are dominantly sill-like bodies of granodiorite and quartz diorite which comprise approximately one-third of the area.",
+    "cosine_similarity": 0.8934034109115601
+  },
+  {
+    "query": "What types of mineralization have been observed in the Attitti Lake area?",
+    "generated_answer": "The mineralization observed in the Attitti Lake area includes disseminated and fracture-fillings of chalcopyrite and pyrite associated with pegmatites, breccias, and crush zones, along major fault zones, and disseminated iron sulphides observed in trace amounts within all the metamorphic rocks.",
+    "expected_answer": "Observed mineralization in the area is of two types: (1) disseminated and fracture-fillings of chalcopyrite and pyrite associated with pegmatites, breccias, and crush zones, along major fault zones; (2) disseminated iron sulphides observed in trace amounts, locally, within all the metamorphic rocks.",
+    "cosine_similarity": 0.9220609664916992
+  },
+  {
+    "query": "What is the general bedrock geology of the Settee Lake area?",
+    "generated_answer": "The general bedrock geology of the Settee Lake area is composed of sub-parallel units of metamorphosed sedimentary and volcanic rocks, separated and intruded by lenticular masses of granitic to dioritic rock.",
+    "expected_answer": "Bedrock is composed of sub-parallel units of metamorphosed sedimentary and volcanic rocks, separated and intruded by lenticular masses of granitic to dioritic rock.",
+    "cosine_similarity": 0.8913002610206604
+  },
+  {
+    "query": "Which rock types in the Settee Lake area are considered most promising for further exploration?",
+    "generated_answer": "The meta-volcanic rocks are considered most promising for further exploration.",
+    "expected_answer": "The meta-volcanic rocks are the most interesting and may well justify closer attention than they seem to have received in the past.",
+    "cosine_similarity": 0.8223673701286316
+  },
+  {
+    "query": "What types of intrusive rocks are present in the Settee Lake area?",
+    "generated_answer": "Lenticular masses of granitic to dioritic rock.",
+    "expected_answer": "Several bodies of granitic rock, some of which appear to be syntectonic, occur in the area, In composition these rocks range from granite to diorite.",
+    "cosine_similarity": 0.7857867479324341
+  },
+  {
+    "query": "What evidence of sulphide mineralization is present in the Settee Lake area?",
+    "generated_answer": "Disseminated pyrrhotite and pyrite, occurring in amounts up to five per cent of the rock, is common in many localities in the meta-sedimentary and meta-volcanic rocks.",
+    "expected_answer": "Disseminated pyrrhotite and pyrite, occurring in amounts up to five per cent of the rock, is common in many localities in the meta-sedimentary and meta-volcanic rocks.",
+    "cosine_similarity": 1.0000001192092896
+  },
+  {
+    "query": "Are there shear zones in the Settee Lake area, and if so, what are their characteristics?",
+    "generated_answer": "Yes, there are shear zones in the Settee Lake area. They are fairly common in the area, mostly parallel to the gneissic structure, and the more pronounced ones possibly represent strike faults.",
+    "expected_answer": "Zones of shearing are fairly common in the area. These are mostly parallel to the gneissic structure and the more pronounced ones possibly represent strike faults.",
+    "cosine_similarity": 0.8655080199241638
+  },
+  {
+    "query": "Explain whether concentration of minerals is elevated in shear zones in the Settee Lake area?",
+    "generated_answer": "Yes, concentration of minerals is elevated in shear zones in the Settee Lake area. Disseminated pyrrhotite and pyrite, occurring in amounts up to five per cent of the rock, is common in many localities in the meta-sedimentary and meta-volcanic rocks. This concentration increases locally in shear zones.",
+    "expected_answer": "Disseminated pyrrhotite and pyrite, occurring in amounts up to five per cent of the rock, is common. This concentration increases locally in shear zones.",
+    "cosine_similarity": 0.8556463718414307
+  },
+  {
+    "query": "What is the general geology of Athabasca lake area?",
+    "generated_answer": "The information to answer this question is not available in the provided document.",
+    "expected_answer": "The information to answer this question is not available in the provided document.",
+    "cosine_similarity": 1.0
+  }
+]
