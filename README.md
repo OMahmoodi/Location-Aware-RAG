@@ -1,4 +1,3 @@
-# Location-Aware-RAG
 # Geoscience RAG Agent for Scanned PDFs
 
 This project builds a Retrieval-Augmented Generation (RAG) agent designed to extract and clean text from scanned geoscience reports (PDFs), embed them, and answer user queries using a local LLM and Hugging Face embeddings.
@@ -11,7 +10,7 @@ This project builds a Retrieval-Augmented Generation (RAG) agent designed to ext
 project-root/
 │
 ├── src/
-│   ├── extract_clean_embed.py      # Extracts, cleans, chunks, and embeds text
+│   ├── extract_clean_text.py      # Extracts, cleans, chunks, and embeds text
 │   ├── build_rag_agent.py          # Builds the RAG QA agent
 │   ├── evaluate_responses.py       # Evaluates agent responses using cosine similarity
 │
