@@ -15,7 +15,7 @@ project-root/
 │   ├── evaluate_responses.py       # Evaluates agent responses using cosine similarity
 │
 ├── run_agent.py                    # Interactive script to chat with the agent
-├── query_examples.json             # Sample QA pairs for evaluation
+├── resultsquery_examples.json      # Sample QA pairs for evaluation
 ├── results/eval_results.json       # Output of evaluation (created at runtime)
 ├── pdfreports/                     # Directory to store scanned PDF reports
 └── README.md                       # This file
